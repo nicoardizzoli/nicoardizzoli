@@ -1,5 +1,5 @@
 # Nicolas Ardizzoli 
-## SSr FullStack Developer JAVA SpringBoot + Angular
+## SSr JAVA Developer
 
 
 ### Languages and Tools:
