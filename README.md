@@ -21,6 +21,10 @@
 <br />
 <br />
 
+### Oficial Certifications
+[<img src="https://github.com/nicoardizzoli/nicoardizzoli/blob/main/img/OCAJSE8.jpg" width="200" height="100">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=733A577B142E309C8F7E58DEAF9387FCB091329660C57CB208DF031A13388724)
+
+
 ### Connect with me:
 
 &nbsp;&nbsp;
