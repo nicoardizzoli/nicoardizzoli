@@ -27,7 +27,7 @@
 [![nicoardizzoliinstagram](./img/instagram-light.svg)](https://www.instagram.com/nicoardizzoli#gh-light-mode-only)
 [![nicoardizzoliinstagram](./img/instagram-dark.svg)](https://www.instagram.com/nicoardizzoli#gh-dark-mode-only)
 
-# Oficial Certifications
+# Official Certifications
 
 
 [<img align="left" src="https://github.com/nicoardizzoli/nicoardizzoli/blob/main/img/OCAJSE8.jpg" width="200" height="100">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=733A577B142E309C8F7E58DEAF9387FCB091329660C57CB208DF031A13388724)
