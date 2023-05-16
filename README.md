@@ -31,8 +31,8 @@
 
 
 [<img align="left" src="https://github.com/nicoardizzoli/nicoardizzoli/blob/main/img/OCAJSE8.jpg" width="200" height="100">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=733A577B142E309C8F7E58DEAF9387FCB091329660C57CB208DF031A13388724)
-
 [<img align="left" src="https://github.com/nicoardizzoli/nicoardizzoli/blob/main/img/aws-certified-developer-associate.png" width="110" height="110">](https://www.credly.com/badges/01ad7fe4-6aa9-4200-8d5f-976748f4c358/public_url)
+[<img align="left" src="https://github.com/nicoardizzoli/nicoardizzoli/blob/main/img/OCPJSE17-2023.png" width="200" height="100">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5C804CD46903552E89252AE3D856A143E6F2419FE7B0DA34EA632C4DBC5A5C7F)
 
 
 
